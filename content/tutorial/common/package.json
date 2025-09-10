@@ -25,6 +25,6 @@
     "stream-browserify": "^3.0.0",
     "typescript": "^5.2.2",
     "url": "npm:url@0.11.3",
-    "vite": "^5.0.8"
+    "vite": "^5.4.20"
   }
 }
